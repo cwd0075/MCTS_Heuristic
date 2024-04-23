@@ -1,7 +1,7 @@
 # MCTS_Heuristic
 MCTS Heuristic to play Connect 4  
 
-Code update from:  
+MCTS_Heuristic_Connect4_colab.ipynb, code update from:  
 alphazero_connect4/MCTS_vs_Alphazero/connect4_selfplay_mcts_vs_Alphazero_colab.ipynb    
 
 Only update inside Node_Orig Class, simulate function:    
