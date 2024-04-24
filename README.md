@@ -4,6 +4,9 @@ MCTS Heuristic to play Connect 4
 MCTS_Heuristic_Connect4_colab.ipynb, code update from:  
 alphazero_connect4/MCTS_vs_Alphazero/connect4_selfplay_mcts_vs_Alphazero_colab.ipynb    
 
+Html GUI verison:  
+https://github.com/cwd0075/connect4_gui_alphazero/tree/main/MCTS_Heuristic  
+
 Only update inside Node_Orig Class, simulate function:    
 1. always select winning moves if available (highest priority)   
 2. always block opponent's winning moves if we have no winning move (medium priority)  
